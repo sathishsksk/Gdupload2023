@@ -1,9 +1,9 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
+    BOT_TOKEN = "1973750907:AAEtMflnE0x-2JaMRWCn6k52_cK-rYxtupA"
+    APP_ID = "1677067"
+    API_HASH = "0d8c8aabe36b01db6a26a7f2780fa660"
+    DATABASE_URL = "mongodb+srv://Sathishsk:Sathishsk@cluster0.t32pzlo.mongodb.net/?retryWrites=true&w=majority"
+    SUDO_USERS = "1126746691 -1001577132355" # Sepearted by space.
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = "759023085267-tn7ovqlmp3qu5fvj835p66rieodnipbh.apps.googleusercontent.com"
     G_DRIVE_CLIENT_SECRET = "-ppmpmEPXORfLEr2SqQqxCpr"
